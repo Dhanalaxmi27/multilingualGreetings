@@ -1,0 +1,11 @@
+.image {
+  width: 45%;
+  height: 50%;
+}
+.list {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
